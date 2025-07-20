@@ -1,0 +1,1 @@
+C:\Users\RAMPOP\Desktop\supply_order_tracker\target\debug\supply_order_tracker.exe: C:\Users\RAMPOP\Desktop\supply_order_tracker\src\handlers.rs C:\Users\RAMPOP\Desktop\supply_order_tracker\src\main.rs C:\Users\RAMPOP\Desktop\supply_order_tracker\src\menu.rs C:\Users\RAMPOP\Desktop\supply_order_tracker\src\models.rs C:\Users\RAMPOP\Desktop\supply_order_tracker\src\utils.rs
