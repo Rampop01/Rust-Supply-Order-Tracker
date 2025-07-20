@@ -8,7 +8,7 @@ pub fn add_order(orders: &mut Vec<Order>) {
     let quantity = utils::get_input("Enter quantity: ")
         .trim()
         .parse::<u32>()
-        .unwrap_or(0); // You’ll improve this later with better error handling
+        .unwrap_or(0); 
     let supplier = utils::get_input("Enter supplier name: ");
 
     let order = Order {
